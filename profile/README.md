@@ -8,6 +8,6 @@ Our mission is to foster collaboration and the exchange of ideas in computationa
 
 *Spanish*
 
-Desde 2020, nuestro grupo ha sido un punto de encuentro para investigadores en diferentes etapas de su carrera y con distintos trasfondos que comparten un interés común por las aplicaciones de la ciencia de datos y computacional en ciencias sociales en tres áreas interconectadas: **minería de datos**, **modelamiento econométrico** y **aprendizaje automático e inteligencia artificial**.
+Desde 2020, nuestro grupo ha sido un punto de encuentro para investigadores en diferentes etapas de su carrera y con distintos trasfondos que comparten un interés común en las aplicaciones de los datos y las ciencias sociales computacionales en tres áreas interconectadas: **minería de datos**, **modelamiento econométrico** y **aprendizaje automático e inteligencia artificial**.
 
 Nuestra misión es fomentar la colaboración y el intercambio de ideas en las ciencias sociales computacionales para **impulsar la investigación y difundir el conocimiento y técnicas específicas a públicos más amplios**. Nuestro compromiso con la ciencia abierta nos lleva a promover la transparencia y el acceso abierto a nuestros datos, resultados y procesos, con el fin de generar soluciones efectivas para los desafíos actuales y fomentar un impacto positivo en la sociedad
